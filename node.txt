@@ -1,0 +1,32 @@
+node js:
+Node.js is an open source, cross-platform runtime environment for developing server-side and 
+networking applications. Node.js applications are written in JavaScript, and can be run within the Node.
+js runtime
+node js can be used on the fronted as well as the backend.
+Node js is not programming language ,it's a runtime environment thats used to run the js outside the browser
+
+Node.js also provides a rich library of various JavaScript modules which simplifies the development of
+ web applications using Node.js to a great extent.
+ where to use:
+Following are the areas where Node.js is proving itself as a perfect technology partner.
+
+I/O bound Applications
+Data Streaming Applications
+JSON APIs based Applications
+Single Page Applications
+npm :
+Node Package Manager provides two main functionalities:
+
+It provides online repositories for node.js packages/modules which are searchable on search.nodejs.org
+It also provides command line utility to install Node.js packages, do version management and dependency management
+ of Node.js packages.
+Npm stands for Node Package Manager. It is a package manager for the Node JavaScript platform.
+
+Npm is known as the world’s largest software registry. Open-source developers all over the world use npm to 
+publish and share their source code.
+
+Npm consists of three components:
+
+The website allows you to find third-party packages, set up profiles, and manage your packages.
+The command-line interface or npm CLI that runs from a terminal to allow you to interact with npm.
+The registry is a large public database of JavaScript code.
