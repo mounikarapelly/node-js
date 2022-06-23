@@ -30,3 +30,31 @@ Npm consists of three components:
 The website allows you to find third-party packages, set up profiles, and manage your packages.
 The command-line interface or npm CLI that runs from a terminal to allow you to interact with npm.
 The registry is a large public database of JavaScript code.
+
+The Global Object:
+
+A global object is an object that always exists in the global scope. In JavaScript, there's always a global object defined
+. In a web browser, when scripts create global variables defined with the var keyword, they're created as members of the global object.
+
+
+require() :
+
+In NodeJS, require() is a built-in function to include external modules that exist in separate files. 
+require() statement basically reads a JavaScript file, executes it, and then proceeds 
+to return the export object.
+require keyword refers to a function which is used to import all the constructs exported using the module.
+ exports object from another module. 
+If you have a module x in which you are exporting some constructs using the module.
+
+Module patterns
+In Node. js, the concept of Modular patterns has additional features that go beyond the regular module (file) pattern
+. The Node. js modular functionality can be used to import functions, classes, objects, external files
+
+What is Routing?
+Routing defines the way in which the client requests are handled by the application endpoints.
+
+Buffers in Streams
+In Node Js, buffers are used to store raw binary data. A buffer represents 
+a chunk of memory that is allocated on our computer. The size of the buffer, once set, cannot be changed. 
+A buffer is used to store bytes.
+
