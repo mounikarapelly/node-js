@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "\"data sharaing the data\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mounikarapelly/node-js.git"
+  },
+  "author": "'meena'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mounikarapelly/node-js/issues"
+  },
+  "homepage": "https://github.com/mounikarapelly/node-js#readme"
+}
